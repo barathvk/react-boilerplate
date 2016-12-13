@@ -1,0 +1,6 @@
+title: Admin
+apps:
+  garcon:
+    dev: http://garcon.hou2rmweb01.net.fmcti.com
+  flite: 
+    dev: http://flite.hou2rmweb01.net.fmcti.com
